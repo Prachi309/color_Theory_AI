@@ -9,18 +9,17 @@ A full-stack AI-powered web application for personal color analysis, providing u
 - [Features](#features)
 - [Architecture Overview](#architecture-overview)
 - [Backend (API)](#backend-api)
-
   - [Endpoints](#endpoints)
   - [Models Used](#models-used)
   - [Pretrained Models & Weights](#pretrained-models--weights)
   - [Functions of Each Endpoint](#functions-of-each-endpoint)
   - [Memory Optimization](#memory-optimization)
-
 - [Dependencies](#dependencies)
 - [Deployment](#deployment)
-- [License](#license) 
--[Memory Optimization](#memory-optimization)
--[How to run it locally](#memory-optimization)
+- [License](#license)
+- [How to Run It Locally](#how-to-run-it-locally)
+
+---
 
 
 
