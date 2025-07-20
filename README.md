@@ -233,6 +233,10 @@ Inside Facer make a cp folder if not already present and add this file after dow
 Required details for running the project
 ---
 [Download Full Report (Google Drive)](https://drive.google.com/file/d/11vddcbZ027WEj6Dvw7q9oJGyRgGIoZoQ/view?usp=sharing)
+---
+You can use a face image like this(jpg-format)
+---
+![MV5BYjQwYTk3ZWUtNWI4OC00YzYzLWFlZjAtNWFhZmQ0MTgzMWJmXkEyXkFqcGc@ _V1_](https://github.com/user-attachments/assets/c75b6073-6e25-4860-977a-f370a78b7517)
 
 ### Clone the Repository
 
