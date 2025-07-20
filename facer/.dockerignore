@@ -1,0 +1,99 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+.DS_Store
+*.pth
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+venv
+.venv
+
+# Project specific
+frontend-in/
+test_*.py
+debug_*.py
+*.md
+.gitignore
+DEPLOYMENT.md
+README.md
+RENDER_DEPLOYMENT.md
+
+# Large files
+*.pth
+*.pt
+*.pkl
+*.h5
+*.hdf5
+*.model
+*.weights
+*.onnx
+*.tflite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Documentation
+docs/
+*.rst
+
+
+# Test files
+tests/
+test/
+*_test.py
+test_*.py
+
+# Development files
+.dev/
+dev/
+development/
+
+# Backup files
+*.bak
+*.backup
+*.old 
