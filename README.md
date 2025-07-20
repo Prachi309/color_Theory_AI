@@ -229,7 +229,10 @@ The frontend is deployed on **Vercel**, offering seamless CI/CD and optimized pe
 Inside Facer make a cp folder if not already present and add this file after downloading inside the cp folder (download the pre-trained weights link)
 ---
 [Download Full Report (Google Drive)](https://drive.google.com/file/d/1G0WjItKmB0EuZ8mGKSaJNgK6oWqIvvt1/view?usp=sharing)
-
+---
+Required details for running the project
+---
+[Download Full Report (Google Drive)](https://drive.google.com/file/d/11vddcbZ027WEj6Dvw7q9oJGyRgGIoZoQ/view?usp=sharing)
 
 ### Clone the Repository
 
