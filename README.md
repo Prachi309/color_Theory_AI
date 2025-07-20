@@ -191,7 +191,7 @@ The frontend is deployed on **Vercel**, offering seamless CI/CD and optimized pe
 1. **Image Compression and Resizing**
 
    - All uploaded images are compressed and resized before processing.
-   - Reduces memory footprint for CPU and GPU operations.
+   - Reduces memory footprint for CPU operations.
    - Functions like `compress_uploaded_image` (backend) and `compress_image` (utility) ensure optimal image size.
 
 2. **Lazy Model Loading**
