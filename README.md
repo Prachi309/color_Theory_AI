@@ -226,6 +226,9 @@ The frontend is deployed on **Vercel**, offering seamless CI/CD and optimized pe
 ---
 
 ## How to Run It Locally
+Inside Facer make a cp folder if not already present and add this file after downloading inside the cp folder
+[Download Full Report (Google Drive)](https://drive.google.com/file/d/1G0WjItKmB0EuZ8mGKSaJNgK6oWqIvvt1/view?usp=sharing)
+
 
 ### Clone the Repository
 
