@@ -21,7 +21,13 @@ A full-stack AI-powered web application for personal color analysis, providing u
 
 ---
 
+## Note
 
+This is the cleaned-up version of the hackathon project. The logic and functionality are identical to the deployed version ,only comments and structure were refined for better readability.
+
+During deployment, we added multiple error logs for debugging, which have been refined here for a cleaner codebase.
+
+Both this repo and the original work perfectly in local environments.
 
 ---
 
