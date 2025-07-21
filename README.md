@@ -35,7 +35,7 @@ A full-stack AI-powered web application for personal color analysis, providing u
 
 - **Interactive Quiz**: Get your color season and palette without uploading a photo.
 
-![newQuiz](https://github.com/user-attachments/assets/81cf0180-d92b-4055-981a-1c1cc434a87a)
+  ![newQuiz](https://github.com/user-attachments/assets/81cf0180-d92b-4055-981a-1c1cc434a87a)
 
   
 - **Personalized Palettes**: Receive curated color palettes, clothing, and makeup suggestions.
@@ -43,9 +43,9 @@ A full-stack AI-powered web application for personal color analysis, providing u
 
 - **Modern UI/UX**: Clean, responsive, and visually appealing interface.
 - **Style Assistant**: Chatbot for style recommendations based on your features and preferences.
-![WhatsApp Image 2025-07-20 at 21 57 08](https://github.com/user-attachments/assets/9bba4b7b-1c07-4bf9-a1d0-d6474cebefc0)
-![WhatsApp Image 2025-07-20 at 22 00 43](https://github.com/user-attachments/assets/96ffff57-e8b3-4691-9a28-2fca494a47be)
-![WhatsApp Image 2025-07-20 at 22 01 54](https://github.com/user-attachments/assets/cd840595-5ca9-4274-a2e1-89b9e72895f0)
+ ![WhatsApp Image 2025-07-20 at 21 57 08](https://github.com/user-attachments/assets/9bba4b7b-1c07-4bf9-a1d0-d6474cebefc0)
+ ![WhatsApp Image 2025-07-20 at 22 00 43](https://github.com/user-attachments/assets/96ffff57-e8b3-4691-9a28-2fca494a47be)
+ ![WhatsApp Image 2025-07-20 at 22 01 54](https://github.com/user-attachments/assets/cd840595-5ca9-4274-a2e1-89b9e72895f0)
 ---
 
 
@@ -54,7 +54,7 @@ A full-stack AI-powered web application for personal color analysis, providing u
 - **Frontend**: React (Vite), communicates with backend via REST API.
 - **Backend**: FastAPI (Python), exposes endpoints for image and quiz analysis, color extraction, and recommendations.
 - **AI/ML**: Uses a combination of deep learning models (PyTorch), lightweight color-based segmentation, and LLMs for recommendations.
-<img width="853" height="573" alt="Flowchart" src="https://github.com/user-attachments/assets/0c399f9f-8585-4487-9ddc-5fe7e476a6a3" />
+  <img width="853" height="573" alt="Flowchart" src="https://github.com/user-attachments/assets/0c399f9f-8585-4487-9ddc-5fe7e476a6a3" />
 
 ---
 
